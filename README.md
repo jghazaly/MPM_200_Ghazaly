@@ -2,7 +2,13 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+**This code:** is about the humming birds data records from ( 1991-2016). By applying codes to this data we will find out which birds survive and which doesn't and why. First it shows you the structure of the data, including the rows and the columns, analysis of 5000 birds, the hospital that had the busiest number of birds, the ones survived and the ones died, their admission through the years, graphs, and issues with the code. 
+
+**The main features and functionalities:** installing packages, loading libraries, reading files, structure of file, seed, grouping, summarizing, making graphs, calculating proportions and making graphs. 
+
+**Output the code generates is:** data structure, data column and rows, number survives and number died, addimision rates, tables, proportions, and graphs. Segregating data according to different groups. 
+
+
 
 ## Project Organization
 ------------
