@@ -1,5 +1,4 @@
-# Template GitHub Repository for EpiPandit Lab
-## Quantitative veterinary epidemiology and disease ecology lab
+# Humming birds Readme File
 ==============================
 
 **This code:** is about the humming birds data records from ( 1991-2016). By applying codes to this data we will find out which birds survive and which doesn't and why. First it shows you the structure of the data, including the rows and the columns, analysis of 5000 birds, the hospital that had the busiest number of birds, the ones survived and the ones died, their admission through the years, graphs, and issues with the code. 
